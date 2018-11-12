@@ -1,0 +1,6 @@
+Use psql as postgres user
+sudo -u postgres psql postgres
+
+Run internal web server
+bin/console server:run
+
